@@ -9,7 +9,7 @@ Defines a spanish word on one side and the english definition on the other.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/faD8sqp" width=200><br>
+<img src="https://i.imgur.com/Gk0G3jg.gif" width=200><br>
 
 
 ## Required
